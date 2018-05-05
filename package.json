@@ -1,0 +1,28 @@
+{
+  "name": "gas-station",
+  "version": "0.0.1",
+  "description": "A mobile wallet manager for blockchain apps.",
+  "main": "src/gas-station.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/includable/gas-station.git"
+  },
+  "keywords": [
+    "ethereum",
+    "blockchain",
+    "wallet",
+    "react-native",
+    "reactnative",
+    "ios",
+    "android"
+  ],
+  "author": "Thomas Schoffelen <thomas@includable.com> (https://includable.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/includable/gas-station/issues"
+  },
+  "homepage": "https://github.com/includable/gas-station#readme"
+}
